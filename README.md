@@ -1,0 +1,1 @@
+# Buddycards-Chinese-localization
